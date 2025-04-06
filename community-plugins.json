@@ -16441,5 +16441,12 @@
   "author": "schaier-io",
   "description": "Track GitHub issues and pull requests in your vault",
   "repo": "schaier-io/obsidian-github-tracker-plugin"
-}
+},
+  {
+    "id": "note-switcher",
+    "name": "Note Switcher",
+    "repo": "DEIN_USERNAME/note-switcher",
+    "owner": "DEIN_USERNAME"
+  }
+
 ]
